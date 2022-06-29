@@ -1,6 +1,6 @@
 # sockH3lix
 
-### Jailbreak for iOS 10.x 64bit devices without KTRR in one second.
+### Jailbreak for iOS 10.x 32bit & 64bit devices without KTRR in one second.
 
 ### Jailbreak for iOS 10.3.4 iPhone5,2 in an instant.
 
