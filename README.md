@@ -11,7 +11,7 @@ This should be the best variant of H3lix jailbreak tool.
 Kernel patches and other resources are inherited from doubleH3lix.
 
 **Only test on my 5s (10.3.3) and 5 (10.3.4).** 10.x 64bit KPP devices is supported in theory. **Use at your own risk.**
-
+[.ipa](https://github.com/Dylbin/sockH3lix/releases/download/master/sockH3lix.ipa)Use xcode or sideloadly for installation.
 This jailbreak tool is compatible with doubleH3lix, which means you can switch between them at any time.
 
 ## Additional modifications:
