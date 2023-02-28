@@ -20,8 +20,8 @@ This jailbreak tool is compatible with doubleH3lix, which means you can switch b
 |---------|----------|
 | iPhone 5| iOS 10.0.0 -> iOS 10.3.4 |
 | iPhone 5s| iOS 10.0.0 -> iOS 10.3.3 |
-| iPhone 6| 10.0.0 -> iOS 10.3.3 |
-| iPhone 6 Plus| 10.0.0 -> 10.3.3 |
+| iPhone 6| iOS 10.0.0 -> iOS 10.3.3 |
+| iPhone 6 Plus| iOS 10.0.0 -> 10.3.3 |
 | iPhone SE| iOS 10.0.0 -> iOS 10.3.3 |
 | iPhone 5S| iOS 10.0.0 -> iOS 10.3.3 |
 | iPad 4| iOS 10.0.0 -> iOS 10.3.4 |
