@@ -19,17 +19,18 @@ This jailbreak tool is compatible with doubleH3lix, which means you can switch b
 | Device | Version |
 |---------|----------|
 | iPhone 5| iOS 10.0.0 -> iOS 10.3.4 |
+| iPhone 5c| iOS 10.0.0 -> iOS 10.3.4 |
 | iPhone 5s| iOS 10.0.0 -> iOS 10.3.3 |
 | iPhone 6| iOS 10.0.0 -> iOS 10.3.3 |
 | iPhone 6 Plus| iOS 10.0.0 -> iOS 10.3.3 |
+| iPhone 6s| iOS 10.0.0 -> iOS 10.3.3 |
+| iPhone 6s Plus| iOS 10.0.0 -> iOS 10.3.3 |
 | iPhone SE| iOS 10.0.0 -> iOS 10.3.3 |
-| iPhone 5S| iOS 10.0.0 -> iOS 10.3.3 |
 | iPad 4| iOS 10.0.0 -> iOS 10.3.4 |
 | iPad Air| iOS 10.0.0 -> iOS 10.3.3 |
 | iPad Air 2| iOS 10.0.0 -> iOS 10.3.3 |
 | iPad Mini 2| iOS 10.0.0 -> iOS 10.3.3 |
 | iPad Mini 3| iOS 10.0.0 -> iOS 10.3.3 |
-| iPad Air 2| iOS 10.0.0 -> iOS 10.3.3 |
 | iPad Mini 4| iOS 10.0.0 -> iOS 10.3.3 |
 | iPod touch (6G)| iOS 10.0.0 -> iOS 10.3.3 |
 
