@@ -14,6 +14,25 @@ Kernel patches and other resources are inherited from doubleH3lix.
 [Download .ipa](https://github.com/Dylbin/sockH3lix/releases/download/master/sockH3lix.ipa) Use xcode or sideloadly for installation.
 This jailbreak tool is compatible with doubleH3lix, which means you can switch between them at any time.
 
+## Supported Devices and iOS versions
+
+| Device | Version |
+|---------|----------|
+| iPhone 5| iOS 10.0.0 -> iOS 10.3.4 |
+| iPhone 5s| iOS 10.0.0 -> iOS 10.3.3 |
+| iPhone 6| 10.0.0 -> iOS 10.3.3 |
+| iPhone 6 Plus| 10.0.0 -> 10.3.3 |
+| iPhone SE| iOS 10.0.0 -> iOS 10.3.3 |
+| iPhone 5S| iOS 10.0.0 -> iOS 10.3.3 |
+| iPad 4| iOS 10.0.0 -> iOS 10.3.4 |
+| iPad Air| iOS 10.0.0 -> iOS 10.3.3 |
+| iPad Air 2| iOS 10.0.0 -> iOS 10.3.3 |
+| iPad Mini 2| iOS 10.0.0 -> iOS 10.2 |
+| iPad Mini 3| iOS 10.0.0 -> iOS 10.3.3 |
+| iPad Air 2| iOS 10.0.0 -> iOS 10.3.3 |
+| iPad Mini 4| iOS 10.0.0 -> iOS 10.3.3 |
+| iPod touch (6G)| iOS 10.0.0 -> iOS 10.3.3 |
+
 ## Additional modifications:
 - Exploit
   - v0rtex -> sock port with higher success rate.
