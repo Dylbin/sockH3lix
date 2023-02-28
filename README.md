@@ -6,7 +6,7 @@
 
 This should be the best variant of H3lix jailbreak tool.
 
-**Replaces the exploit from v0rtex to [sock port](https://github.com/jakeajames/sock_port) therefore bringing higher success rate and makes it faster.**
+**Replaces the exploit from v0rtex to [sock_port](https://github.com/jakeajames/sock_port) therefore bringing higher success rate and makes it faster.**
 
 Kernel patches and other resources are inherited from doubleH3lix.
 
