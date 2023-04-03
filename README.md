@@ -26,8 +26,6 @@ This jailbreak tool is compatible with doubleH3lix, which means you can switch b
 | iPhone 6 Plus| iOS 10.0.0 -> iOS 10.3.3 |
 | iPhone 6s| iOS 10.0.0 -> iOS 10.3.3 |
 | iPhone 6s Plus| iOS 10.0.0 -> iOS 10.3.3 |
-| iPhone 7| NOT SUPPORTED (USE MERIDIAN) |
-| iPhone 7 Plus| NOT SUPPORTED (USE MERIDIAN) |
 | iPhone SE| iOS 10.0.0 -> iOS 10.3.3 |
 | iPad 4| iOS 10.0.0 -> iOS 10.3.4 |
 | iPad Air| iOS 10.0.0 -> iOS 10.3.3 |
