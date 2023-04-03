@@ -37,7 +37,7 @@ This jailbreak tool is compatible with doubleH3lix, which means you can switch b
 
 ## Additional modifications:
 - Exploit
-  - v0rtex -> [sock_port](https://github.com/jakeajames/sock_port) with higher success rate.
+  - [v0rtex](https://github.com/Siguza/v0rtex) -> [sock_port](https://github.com/jakeajames/sock_port) with higher success rate.
   - Reimplement the [sock_port](https://github.com/jakeajames/sock_port) exploit on 32bit platform.
 - Sandbox
   - Remove a patch which fully disable sandbox for any process. This keeps sandbox container intact and keeps NSUserDefaults (cfprefsd) from storing plist in the unsandbox patch.
